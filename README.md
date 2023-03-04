@@ -4,6 +4,7 @@ I'm currently doing my master's degree in computer science at Alx. I enjoy makin
 
 Find me on
 
-- [Facebook](https://www.facebook.com/bedweyy)
-- [Instagram](https://www.facebook.com/bedweyy)
-- [Personal Website](https://bedweyy.egy)
+- <a href="https://www.facebook.com/bedweyy" target="_blank">Facebook</a>
+- <a href="https://twitter.com/bedweyy" target="_blank">Twitter</a>
+- <a href="https://www.instagram.com/Bedweyy" target="_blank">Instagram</a>
+- <a href="https://bedweyy.egy" target="_blank">Personal Website</a>
