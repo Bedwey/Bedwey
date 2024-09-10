@@ -15,10 +15,9 @@
     /About_Me
     │
     ├── /bio
-    │   ├── he/him - Abdullah Bedwey - (arabic + english)
-    │   ├── /law graduated
-    │   ├── /Alx (software engineering 2024)
-    │   └── /embedded systems developer in research and development sector (R&D)
+    │   ├── He/him - Abdullah Bedwey - (arabic + english)
+    │   ├── /Law graduated
+    │   └── /Alx (software engineering 2024)
     │
     ├── /os
     │   ├── /linux
