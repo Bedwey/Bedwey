@@ -5,14 +5,10 @@
         <img src="https://github.com/Bedwey/Bedwey/blob/main/image.jpg" alt="bedwey" style="width: 200%; border: none;"/>
       </td>
       <td style="width: 50%; vertical-align: top;">
-        <p style="font-family: monospace; font-size: 16px;">
-        
-      
-      █▄▄ █▀▀ █▀▄ █░█░█ █▀▀ █▄█
-      █▄█ ██▄ █▄▀ ▀▄▀▄▀ ██▄ ░█░
-      
-  </p>
-
+      <p style="font-family: monospace; font-size: 16px;">
+          █▄▄ █▀▀ █▀▄ █░█░█ █▀▀ █▄█
+          █▄█ ██▄ █▄▀ ▀▄▀▄▀ ██▄ ░█░
+      </p>
       /About_Me
       │
       ├── /bio
@@ -47,7 +43,6 @@
           ├── x.com/bedweyy
           ├── facebook.com/bedweyy
           └── instagram.com/Bedweyy
-
     </tr>
-    </table>
-  </center>
+  </table>
+</center>
